@@ -9,3 +9,5 @@ docx2txt
 pypdf
 langchain-text-splitters
 sentence-transformers
+langchain-pinecone
+pinecone-client
