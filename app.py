@@ -23,7 +23,7 @@ def get_embeddings():
 
 @st.cache_resource
 def get_llm(api_key):
-    return ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=api_key, temperature=0)
+    return ChatGoogleGenerativeAI(model="gemini-2.5-flash", google_api_key=api_key, temperature=0)
 
 @st.cache_resource
 def get_vectorstore():
