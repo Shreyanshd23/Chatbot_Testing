@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+faiss-cpu
+python-dotenv
+unstructured
+python-docx
+pypdf
+langchain-text-splitters
+sentence-transformers
